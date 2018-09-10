@@ -1,0 +1,19 @@
+h2 {
+    position: absolute;
+    left: 550px;
+    top: 80px;
+}
+
+p{
+    position: absolute;
+    left: 550px;
+    top: 120px;
+    color: orange;
+    font-size: 40px;
+}
+
+#clickButton{
+    position: absolute;
+    left: 600px;
+    top: 280px;
+}
